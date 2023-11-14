@@ -1,0 +1,96 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Ll]ibrary/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.csproj.meta
+*.sln.meta
+*.SyntaxTree.Mono.Cecil.dll
+*.SyntaxTree.Mono.Cecil.dll.meta
+*.ide
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Thumbs.db.meta
+
+# =============== #
+# Rider generated #
+# =============== #
+.idea/
+
+# ============ #
+# for others   #
+# ============ #
+*.log #log files, for some plugins
+*.pyc #python bytecode cache, for some plugins.
+sysinfo.txt #Unity3D Generated File On Crash Reports
+
+Assets/UnityVS.meta
+Assets/UnityVS/Editor.meta
+Assets/UnityVS/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll
+Assets/UnityVS/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll.meta
+Assets/UnityVS/Editor/SyntaxTree.VisualStudio.Unity.Messaging.dll
+Assets/UnityVS/Editor/SyntaxTree.VisualStudio.Unity.Messaging.dll.meta
+Assets/UnityVS/Editor/UnityVS.VersionSpecific.dll
+Assets/UnityVS/Editor/UnityVS.VersionSpecific.dll.meta
+
+Assets/SublimeSocketAsset/*
+Assets/SublimeSocketAsset.meta
+
+gloopsFW/*
+
+[Bb]uild/
+[Bb]uilds/
+.vscode/
+
+# Plugin for Rider
+Assets/Plugins/Editor/JetBrains/*
+Assets/Plugins/Editor/JetBrains.meta
+*.DotSettings
+
+Assets/UnityVS/Editor/SyntaxTree.Mono.Cecil.dll
+Assets/UnityVS/Editor/SyntaxTree.Mono.Cecil.dll.meta
+
+# Cache of AssetBundleGraphTool
+Assets/UnityEngine.AssetBundleGraph/Cache/*
+Assets/UnityEngine.AssetBundleGraph/Cache.meta
+
+# Excel generated when open file
+~$*.xlsx
+~$*.xlsx.meta
+
+# Sprite Studio 6 Player for Unity
+!Assets/SpriteStudio6/Library
+
+# Debug config file.
+Assets/Six/Debug/Config.json
+Assets/Six/Debug/Config.json.meta
+
+# Ignore assetbundles.
+Assets/AssetBundles/voice/*
+Assets/AssetBundles/voice.meta
+Assets/AssetBundles/bgm/*
+Assets/AssetBundles/bgm.meta
